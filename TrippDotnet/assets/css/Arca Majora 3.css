@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'Arca Majora 3';
+	src: url(../../assets/fonts/ArcaMajora3-Bold.woff2) format('woff2'),
+	url(../../assets/fonts/ArcaMajora3-Bold.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+}
